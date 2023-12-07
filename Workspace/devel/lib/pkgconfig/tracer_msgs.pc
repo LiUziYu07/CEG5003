@@ -1,0 +1,8 @@
+prefix=/home/wr/Workspace/devel
+
+Name: tracer_msgs
+Description: Description of tracer_msgs
+Version: 0.3.3
+Cflags: -I/home/wr/Workspace/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
